@@ -1,0 +1,5 @@
+Brittany  21  Blue
+A         87  Pink
+B         13  Yellow
+C         55  Black
+D         4   Green
